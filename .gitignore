@@ -1,0 +1,32 @@
+# 🔥 Ignore dataset folder
+football-datasets/
+
+# If inside data folder (optional depending on your structure)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+bigvenv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Spark temp files
+spark-warehouse/
