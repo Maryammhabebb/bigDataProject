@@ -1,5 +1,5 @@
-# 🔥 Ignore dataset folder
-football-datasets/
+# 🔥 Ignore transfermarkt dataset folder
+transfermarkt/
 
 # If inside data folder (optional depending on your structure)
 data/raw/
